@@ -13,7 +13,8 @@ public class TriangleSidesValidator {
             }else{
             System.out.println("t's not a triangle");
             }
-
+        }else{
+            System.out.println("t's not a triangle");
         }
     }
 }
