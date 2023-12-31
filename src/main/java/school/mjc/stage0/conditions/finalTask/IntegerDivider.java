@@ -1,6 +1,9 @@
 package school.mjc.stage0.conditions.finalTask;
 
 public class IntegerDivider {
+    public static void main(String[] args) {
+
+    }
     public void printCompletelyDivided(int dividend, int divider) {
         int result = dividend / divider;
         if (result * divider == dividend){
